@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ae1e3fdd248741d4a3aed284d53ef7f0',
+    rootNotionPageId: '4216195a8f4a4709967ace4674c1c694',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '1314个人博客名称',
-  domain: 'https://1314news.notion.site/ae1e3fdd248741d4a3aed284d53ef7f0',
+    domain: 'https://or4444.notion.site/4216195a8f4a4709967ace4674c1c694',
   author: '1314',
 
   // open graph metadata (optional)
